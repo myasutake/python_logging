@@ -1,0 +1,5 @@
+add a file test_script.py with the line to import the logging config
+import logging.config
+logging.config.dictConfig(utils.logging_config.config)
+
+- - -
